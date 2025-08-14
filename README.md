@@ -7,7 +7,7 @@ This repository demonstrates my manual game testing skills, from identifying and
 ## TEST REPORTS:
 - Cyberpunk 2077
 - Assasin's Creed Valhala
-- Battlefield 6
+- Battlefield 6 (WIP)
 
 
 ## TOOLS:
