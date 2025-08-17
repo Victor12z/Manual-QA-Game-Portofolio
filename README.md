@@ -18,4 +18,4 @@ This repository demonstrates my manual game testing skills, from identifying and
 ## NOTES:
 
 - In addition to PC titles, I have tested consoles and mobile games.
-- More tests will come.
+- More tests to come.
