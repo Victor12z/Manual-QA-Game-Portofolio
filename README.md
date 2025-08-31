@@ -7,7 +7,8 @@ This repository demonstrates my manual game testing skills, from identifying and
 ## TEST REPORTS:
 - Cyberpunk 2077
 - Assasin's Creed Valhala
-- Mycopunk 
+- Mycopunk
+- Nightingale
 
 
 
